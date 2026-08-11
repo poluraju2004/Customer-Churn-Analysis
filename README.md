@@ -396,7 +396,7 @@ The project can be extended by adding:
 
 ## 👨‍💻 Author
 
-**Poluraju**
+**Kataru Poluraju**
 
 B.Tech – Computer Science and Engineering (Data Science)
 
